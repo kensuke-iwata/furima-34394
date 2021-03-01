@@ -55,7 +55,7 @@
 | Column        | Type        | Options                        |
 | ------------- | ----------- | ------------------------------ |
 | post_code     | string      | null: false                    |
-| are-id        | integer     | null: false                    |
+| area-id       | integer     | null: false                    |
 | city          | string      | null: false                    |
 | address       | string      | null: false                    |
 | building_name | string      |                                |
